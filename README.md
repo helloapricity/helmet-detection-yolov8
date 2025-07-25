@@ -1,2 +1,3 @@
-# helmet-detection-yolov8
-Real-time helmet detection system using YOLOv8 to improve road safety by identifying riders without helmets. Built with Python, OpenCV, and Streamlit. Dataset from Roboflow.
+# Real-Time Helmet Detection using YOLOv8
+
+This project detects whether a person is wearing a helmet in real-time using YOLOv8.
